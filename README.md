@@ -13,7 +13,6 @@ This two-piece protective case fully encloses the PyBadge PCB. The front and bac
 - Adafruit PyBadge LC
 
 ## Printing Recommendations
-Case and Buttons
 - Material: PLA (Case, D-pad, buttons), TPU (Spacers)
 - Layer Height: 0.2mm
 - Infill: 20%
