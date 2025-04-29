@@ -1,7 +1,7 @@
 # PyBadge Case
 3D printable protective case for the Adafruit PyBadge.
 
-Visit the PyBadge Case [project page](https://www.hackster.io/rhammell/pybadge-protective-case-with-d-pad-95c8a2) on Hackste.io for images and assembly instructions.
+Visit the PyBadge Case [project page](https://www.hackster.io/rhammell/pybadge-protective-case-with-d-pad-95c8a2) on Hackster.io for images and assembly instructions.
 
 ## Description
 This two-piece protective case fully encloses the PyBadge PCB. The front and back halves connect securely using four M3x10 machine screws. The design features functional buttons and a D-pad with integrated soft spacers that transfer presses to the PyBadge's built-in controls. Cutouts provide easy access to the power switch and USB port for charging and programming without removing the case.
