@@ -6,7 +6,9 @@ Visit the PyBadge Case [project page](https://www.hackster.io/rhammell/pybadge-p
 ![PyBadge Case](images/pybadge_case.jpg)
 
 ## Description
-This two-piece protective case fully encloses the PyBadge PCB. The front and back halves connect securely using four M3x10 machine screws. The design features functional buttons and a D-pad with integrated soft spacers that transfer presses to the PyBadge's built-in controls. Cutouts provide easy access to the power switch and USB port for charging and programming without removing the case.
+This two-piece protective case fully encloses the PyBadge PCB. The front and back halves connect securely using four M3x10 machine screws. 
+
+The design features functional buttons and a D-pad with integrated soft spacers that transfer presses to the PyBadge's built-in controls. Cutouts provide easy access to the power switch and USB port for charging and programming without removing the case.
 
 ## Repository Contents
 - Fusion 360 project file
