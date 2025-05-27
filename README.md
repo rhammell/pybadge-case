@@ -1,7 +1,7 @@
 # PyBadge Case
 3D printable protective case for the Adafruit PyBadge and PyBadge LC.
 
-Visit the PyBadge Case [project page](https://www.hackster.io/rhammell/pybadge-protective-case-with-d-pad-95c8a2) on Hackster.io for printing and assembly instructions.
+Read the [project guide](https://www.hackster.io/rhammell/pybadge-protective-case-with-d-pad-95c8a2) on Hackster.io for printing and assembly instructions.
 
 ## Description
 <p align="center">
