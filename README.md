@@ -13,8 +13,9 @@ This two-piece protective case fully encloses the PyBadge PCB. The front and bac
 The design features functional buttons and a D-pad with integrated soft spacers that transfer presses to the PyBadge's built-in controls. Cutouts provide easy access to the power switch and USB port for charging and programming without removing the case.
 
 ## Repository Contents
-- Fusion 360 project file
-- STL files for each case component
+- `cad/`: Fusion 360 project file (`PyBadge_Case.f3d`)
+- `stl/`: STL files for each case component
+- `images/`: reference photo
 
 ## Compatibility
 - Adafruit PyBadge
